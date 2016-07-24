@@ -1,2 +1,3 @@
-# linux
-Common Linux commands that are helpful.
+#Linux Commands
+
+##Common Linux Commands that are helpful. 
